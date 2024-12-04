@@ -1,0 +1,35 @@
+{
+  "name": "example.json",
+  "version": "1.0.0",
+  "description": "start project",
+  "main": "n1.js",
+  "scripts": {
+    "start": "node stat.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// }
+// STEPSS----
+// 1.node -v
+// 2.cd folder
+// 3.npm init
+// 4.If close ctrl c
+// 5.npm start,end
+// 6.if uninstall
